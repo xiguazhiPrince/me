@@ -16,3 +16,6 @@ If the theory works, I can make it happen.
 - Business Skills: Rich experience in SaaS, low-code, data products, e-commerce, social, and sharing economy. Always able to find solutions for any requirement.
 Collaboration: Beyond engineering, also responsible for product and project management, leading and coordinating teams of 20+ people. Advocates for process optimization and documentation to improve efficiency and quality.
 - Learning: Proven ability for continuous learning and innovation. Built a systematic knowledge base through extensive reading of technical literature including "Thinking in Java", "On Java 8", "In-Depth Understanding of JVM", and more.
+
+
+[![xiguazhiPrince's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiguazhiPrince)](https://github.com/anuraghazra/github-readme-stats)
